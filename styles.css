@@ -1,0 +1,20 @@
+.container.basic {
+  max-width: 1200px;
+}
+
+.container.banner {
+  max-width: 1464px;
+}
+
+.home-banner {
+  max-width: 1440px;
+}
+
+.company-logo {
+  max-width: 150px;
+}
+
+.dish-image {
+  max-width: 560px;
+  max-height: 350px;
+}
