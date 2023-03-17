@@ -10,6 +10,10 @@
   max-width: 1000px;
 }
 
+.container.recipe-details {
+  max-width: 800px;
+}
+
 .home-banner {
   max-width: 1440px;
 }
@@ -18,7 +22,12 @@
   max-width: 150px;
 }
 
-.dish-image {
+.dish-large-image {
+  max-width: 760px;
+  max-height: 450px;
+}
+
+.dish-medium-image {
   max-width: 560px;
   max-height: 350px;
 }
