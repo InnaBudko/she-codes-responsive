@@ -6,6 +6,10 @@
   max-width: 1464px;
 }
 
+.container.about-section {
+  max-width: 1000px;
+}
+
 .home-banner {
   max-width: 1440px;
 }
@@ -17,4 +21,14 @@
 .dish-image {
   max-width: 560px;
   max-height: 350px;
+}
+
+.dish-small-image {
+  max-width: 360px;
+  max-height: 350px;
+}
+
+.portrait {
+  max-width: 460px;
+  max-height: 450px;
 }
